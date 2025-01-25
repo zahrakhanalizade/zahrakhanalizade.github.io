@@ -4,3 +4,6 @@ description: Welcome to my personal website!
 theme: jekyll-theme-minimal
 include:
   - assets/css/styles.css
+
+profile_image: assets/images/profile.jpg
+
