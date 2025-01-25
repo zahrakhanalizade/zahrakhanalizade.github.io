@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
 title: Zahra Khanalizadeh
-description: Welcome to my peronal website!
+description: Welcome to my personal website!
+
+theme: jekyll-theme-minimal
+include:
+  - assets/css/styles.css
