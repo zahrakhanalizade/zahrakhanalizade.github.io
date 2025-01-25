@@ -1,6 +1,8 @@
 title: Zahra Khanalizadeh
+logo: assets/images/profile.JPG
 description: Welcome to my personal website!
 
 theme: jekyll-theme-minimal
-include:
-  - assets/css/styles.css
+
+
+
