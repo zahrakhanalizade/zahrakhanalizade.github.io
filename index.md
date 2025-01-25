@@ -5,8 +5,10 @@ title: About Me
 
 # About Me
 
-Hi! I'm Zahra Khanalizadeh, a PhD student in Economics at the University of Washington. 
+Hi! I'm Zahra Khanalizadeh, a PhD student in Economics at the University of Washington. My research interests span applied microeconomics, labor and development economics, causal inference, and experimentation. 
 
-This website will be up and running soon...
+Before starting my PhD, I received my bachelor's in Computer Engineering and a master's in Economics from Sharif University of Technology. I then spent a year at the Smith School of Business at Queen's University doing a master's in Analytics.
 
-To reach me, please email me at zkhnl@uw.edu
+This website is still a work in progress, but more content is coming soon...
+
+In the meantime, feel free to reach me at zkhnl@uw.edu.
