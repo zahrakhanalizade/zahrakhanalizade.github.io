@@ -4,5 +4,16 @@ description: Welcome to my personal website!
 
 theme: jekyll-theme-minimal
 
+# Social Links
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/zahra-khanalizadeh
+  - name: Twitter
+    url: https://x.com/Zahra_Khanali
+  - name: Department Page
+    url: https://econ.washington.edu/people/zahra-khanalizadeh
+  - name: GitHub
+    url: https://github.com/zahrakhanalizade
+
 
 
