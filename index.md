@@ -14,7 +14,7 @@ This website is still a work in progress, but more content is coming soon...
 In the meantime, feel free to reach me at zkhnl@uw.edu.
 
 ### Find Me Online  
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/zahra-khanalizadeh))  
-- [Twitter]([https://twitter.com/your-handle](https://x.com/Zahra_Khanali))  
-- [Department Page]([https://econ.washington.edu/people/your-name](https://econ.washington.edu/people/zahra-khanalizadeh))  
-- [GitHub]([https://github.com/your-username](https://github.com/zahrakhanalizade))
+- [LinkedIn](https://www.linkedin.com/in/zahra-khanalizadeh)  
+- [Twitter](https://x.com/Zahra_Khanali)  
+- [Department Page](https://econ.washington.edu/people/zahra-khanalizadeh)  
+- [GitHub](https://github.com/zahrakhanalizade)
