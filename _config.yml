@@ -4,6 +4,8 @@ description: Welcome to my personal website!
 
 theme: jekyll-theme-minimal
 
+baseurl: "" 
+url: "https://zahrakhanalizade.github.io/"
 
 
 
