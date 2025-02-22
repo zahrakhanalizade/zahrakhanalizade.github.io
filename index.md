@@ -2,7 +2,7 @@
 layout: home
 title: "Welcome"
 ---
-![Profile Picture](assets/images/profile.JPG){: style="width: 200px; border-radius: 50%;" }
+![Profile Picture](images/profile.JPG){: style="width: 200px; border-radius: 50%;" }
 
 ## About Me
 
