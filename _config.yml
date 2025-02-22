@@ -1,77 +1,11 @@
-# Basic Site Settings
-locale: "en-US"
-title: "Zahra Khanalizadeh"
-name: "Zahra Khanalizadeh"
-description: "PhD Student in Economics | Researcher in Experimentation & Labor Economics"
-url: "https://zahrakhanalizade.github.io"
-baseurl: ""  # No subpath
-repository: "zahrakhanalizade/zahrakhanalizade.github.io"
+title: Zahra Khanalizadeh
+logo: assets/images/profile.JPG
+description: Welcome to my personal website!
 
-# Theme Setup
-theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-minimal
 
-# Author Info (Appears in Sidebar)
-author:
-  avatar: "profile.JPG"
-  name: "Zahra Khanalizadeh"
-  bio: "PhD Student in Economics at the University of Washington. Researching experimentation in two-sided platforms and labor economics."
-  email: "zkhnl@uw.edu"
+baseurl: "" 
+url: "https://zahrakhanalizade.github.io/"
 
-# Social Media Links
-social_media:
-  linkedin: "https://www.linkedin.com/in/zahra-khanalizadeh"
-  twitter: "https://x.com/Zahra_Khanali"
-  department_page: "https://econ.washington.edu/people/zahra-khanalizadeh"
 
-# Minimal Sections: Home, Research, CV
-collections:
-  research:
-    output: true
-    permalink: /research/:path/
-  cv:
-    output: true
-    permalink: /cv/:path/
 
-# Include necessary directories
-include:
-  - _pages
-  - _research
-  - _cv
-
-# Default Layouts
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-
-  - scope:
-      path: ""
-      type: cv
-    values:
-      layout: single
-      author_profile: true
-
-# Permalinks
-permalink: /:categories/:title/
-timezone: Etc/UTC
-
-# Disable Comments and Extras
-comments: false
-breadcrumbs: false
-read_more: "disabled"
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
