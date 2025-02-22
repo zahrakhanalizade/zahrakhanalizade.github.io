@@ -14,7 +14,7 @@ author:
   location: "Seattle, WA"
   employer: "University of Washington"
   email: "zkhnl@uw.edu"
-  
+
 # Default Page Settings
 defaults:
   - scope:
@@ -23,13 +23,7 @@ defaults:
     values:
       layout: home
       permalink: /
-
-# Academic Links
-academic_links:
-  arxiv: "https://www.arxiv.org/abs/2502.09806"
-  # googlescholar: ""
-  # orcid: ""
-  # researchgate: ""
+      author_profile: true  # ✅ Show profile on all pages
 
 # Social Media Links
 social_media:
@@ -38,11 +32,14 @@ social_media:
   github: "https://github.com/zahrakhanalizade"
   department_page: "https://econ.washington.edu/people/zahra-khanalizadeh"
 
+# Ensure Jekyll Processes These Folders
 include:
   - _pages
+  - _publications
 
+# Publications Collection Setup
 collections:
   publications:
     output: true
     permalink: /publications/:path/
-
+    sort_by: date  # ✅ Sort by date, newest first
