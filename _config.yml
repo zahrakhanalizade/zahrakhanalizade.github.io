@@ -15,7 +15,6 @@ author:
   employer: "University of Washington"
   email: "zkhnl@uw.edu"
   
-
 # Default Page Settings
 defaults:
   - scope:
@@ -25,13 +24,15 @@ defaults:
       layout: home
       permalink: /
 
-# Academic Links
+# Academic Links (correct indentation)
+academic_links:
   arxiv: "https://www.arxiv.org/abs/2502.09806"
   # googlescholar: ""
   # orcid: ""
   # researchgate: ""
 
-# Social Media
+# Social Media Links (correct indentation)
+social_media:
   linkedin: "https://www.linkedin.com/in/zahra-khanalizadeh"
   twitter: "https://x.com/Zahra_Khanali"
   github: "https://github.com/zahrakhanalizade"
