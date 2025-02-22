@@ -7,5 +7,10 @@ theme: jekyll-theme-minimal
 baseurl: "" 
 url: "https://zahrakhanalizade.github.io/"
 
-
-
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: CV
+    url: /cv/
