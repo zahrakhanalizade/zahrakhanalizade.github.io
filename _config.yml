@@ -4,6 +4,7 @@ name: &name "Zahra Khanalizadeh"
 description: &description "PhD Student in Economics | Researcher in Experimentation & Labor Economics"
 url: "https://zahrakhanalizade.github.io" 
 repository: "zahrakhanalizade/zahrakhanalizade.github.io"
+theme: minimal-mistakes-jekyll
 
 # Site Author
 author:
