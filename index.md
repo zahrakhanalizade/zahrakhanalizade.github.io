@@ -16,4 +16,4 @@ I am advised by [Alan Griffith](https://econ.washington.edu/people/alan-griffith
 Previously, I earned my **bachelor's in Computer Engineering and master's in Economics** from Sharif University of Technology. I then completed a **master's in Analytics** at Queen's University's Smith School of Business.
 
 📧 **Contact:** zkhnl@uw.edu  
-🔗 **[LinkedIn](https://www.linkedin.com/in/zahra-khanalizadeh)** | **[GitHub](https://github.com/zahrakhanalizade)** | **[Google Scholar](https://scholar.google.com/citations?user=your-scholar-id)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/zahra-khanalizadeh)** | **[GitHub](https://github.com/zahrakhanalizade)** | **[UW Webpage](https://econ.washington.edu/people/zahra-khanalizadeh)**
