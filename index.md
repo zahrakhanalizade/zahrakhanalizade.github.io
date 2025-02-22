@@ -3,6 +3,9 @@ layout: default
 title: About Me
 ---
 
+[Research](./research.html).
+
+
 # About Me
 
 Hi! I'm Zahra Khanalizadeh, a PhD student in Economics at the University of Washington. My research interests span applied microeconomics, labor and development economics, causal inference, and experimentation. I am advised by [Alan Griffith](https://econ.washington.edu/people/alan-griffith) and [Jason Kerwin](https://jasonkerwin.com/).
