@@ -24,14 +24,14 @@ defaults:
       layout: home
       permalink: /
 
-# Academic Links (correct indentation)
+# Academic Links
 academic_links:
   arxiv: "https://www.arxiv.org/abs/2502.09806"
   # googlescholar: ""
   # orcid: ""
   # researchgate: ""
 
-# Social Media Links (correct indentation)
+# Social Media Links
 social_media:
   linkedin: "https://www.linkedin.com/in/zahra-khanalizadeh"
   twitter: "https://x.com/Zahra_Khanali"
