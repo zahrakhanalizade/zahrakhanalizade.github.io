@@ -15,6 +15,8 @@ author:
   employer: "University of Washington"
   email: "zkhnl@uw.edu"
   
+
+# Default Page Settings
 defaults:
   - scope:
       path: ""
