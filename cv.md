@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "CV"
-permalink: /cv/
 ---
+## 📌 [Research](./research.md) | [CV](./cv.md) | [Teaching](./teaching.md)
 
 ## My CV
 
