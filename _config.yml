@@ -1,46 +1,77 @@
 # Basic Site Settings
+locale: "en-US"
 title: "Zahra Khanalizadeh"
-name: &name "Zahra Khanalizadeh"
-description: &description "PhD Student in Economics | Researcher in Experimentation & Labor Economics"
-url: "https://zahrakhanalizade.github.io" 
+name: "Zahra Khanalizadeh"
+description: "PhD Student in Economics | Researcher in Experimentation & Labor Economics"
+url: "https://zahrakhanalizade.github.io"  # Your GitHub Pages URL
+baseurl: ""  # No subpath
 repository: "zahrakhanalizade/zahrakhanalizade.github.io"
-theme: minimal-mistakes-jekyll
 
-# Site Author
+# ✅ Minimal Theme Setup
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+
+# ✅ Basic Sidebar Info
 author:
   avatar: "profile.JPG"  
   name: "Zahra Khanalizadeh"
-  pronouns: "she/her"
   bio: "PhD Student in Economics at the University of Washington. Researching experimentation in two-sided platforms and labor economics."
-  location: "Seattle, WA"
-  employer: "University of Washington"
   email: "zkhnl@uw.edu"
 
-# Default Page Settings
+# ✅ Social Media Links (Only the ones you want)
+social_media:
+  linkedin: "https://www.linkedin.com/in/zahra-khanalizadeh"
+  twitter: "https://x.com/Zahra_Khanali"
+  department_page: "https://econ.washington.edu/people/zahra-khanalizadeh"
+
+# ✅ Three Simple Sections: Home, Research, CV
+collections:
+  research:
+    output: true
+    permalink: /research/:path/
+  cv:
+    output: true
+    permalink: /cv/:path/
+
+# ✅ Minimal Pages (Only Home, Research, and CV)
+include:
+  - _pages
+  - _research
+  - _cv
+
+# ✅ Default Layouts
 defaults:
   - scope:
       path: ""
       type: pages
     values:
-      layout: home
-      permalink: /
-      author_profile: true  # ✅ Show profile on all pages
+      layout: single
+      author_profile: true
 
-# Social Media Links
-social_media:
-  linkedin: "https://www.linkedin.com/in/zahra-khanalizadeh"
-  twitter: "https://x.com/Zahra_Khanali"
-  github: "https://github.com/zahrakhanalizade"
-  department_page: "https://econ.washington.edu/people/zahra-khanalizadeh"
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
 
-# Ensure Jekyll Processes These Folders
-include:
-  - _pages
-  - _publications
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
 
-# Publications Collection Setup
-collections:
-  publications:
-    output: true
-    permalink: /publications/:path/
-    sort_by: date  # ✅ Sort by date, newest first
+# ✅ Permalinks (Keep URLs Simple)
+permalink: /:categories/:title/
+timezone: Etc/UTC
+
+# ✅ Disable Comments and Extras
+comments: false
+breadcrumbs: false
+read_more: "disabled"
+
+# ✅ Keep Only Essential Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
