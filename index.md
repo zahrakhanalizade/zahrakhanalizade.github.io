@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-[Research](./research.html)
+[Research](./research.md)
 
 
 # About Me
