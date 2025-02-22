@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-## 📌 [Research](./research.md) | [CV](./cv.md)
+## 📌 [Research](./research.md) | [CV](./cv.md) | [Teaching](./teaching.md)
 
 
 
