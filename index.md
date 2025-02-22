@@ -3,7 +3,9 @@ layout: default
 title: About Me
 ---
 
-[Research](./research.md)
+[Research](./research.md) | 
+[CV](./cv.md)
+
 
 
 # About Me
