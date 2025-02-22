@@ -21,6 +21,7 @@ defaults:
       type: pages
     values:
       layout: home
+      permalink: /
 
 # Academic Links
   arxiv: "https://www.arxiv.org/abs/2502.09806"
