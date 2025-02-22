@@ -2,6 +2,7 @@
 layout: default
 title: "Teaching"
 ---
+## 📌 [Research](./research.md) | [CV](./cv.md) | [Teaching](./teaching.md)
 
 ## My Teaching Experience
 
