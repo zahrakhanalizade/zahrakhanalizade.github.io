@@ -8,7 +8,7 @@ title: About Me
 
 ## About Me
 
-Hi! I'm Zahra Khanalizadeh, a PhD student in Economics at the University of Washington. My research interests span applied microeconomics, labor and development economics, causal inference, and experimentation. I am advised by [Alan Griffith](https://econ.washington.edu/people/alan-griffith) and [Jason Kerwin](https://jasonkerwin.com/).
+Hi! I'm Zahra Khanalizadeh, a 4th year PhD student in Economics at the University of Washington. My research interests span applied microeconomics, labor and development economics, causal inference, and experimentation. I am advised by Prof. [Alan Griffith](https://econ.washington.edu/people/alan-griffith) and Prof. [Jason Kerwin](https://jasonkerwin.com/).
 
 I received my bachelor's in Computer Engineering and master's in Economics from Sharif University of Technology. I then spent a year at the Smith School of Business at Queen's University getting a master's in Analytics.
 
