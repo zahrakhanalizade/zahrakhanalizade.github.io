@@ -37,3 +37,7 @@ social_media:
   twitter: "https://x.com/Zahra_Khanali"
   github: "https://github.com/zahrakhanalizade"
   department_page: "https://econ.washington.edu/people/zahra-khanalizadeh"
+
+include:
+  - _pages
+
