@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Research"
-permalink: /research/
 ---
+## 📌 [Research](./research.md) | [CV](./cv.md) | [Teaching](./teaching.md)
 
 ## My Research
 
