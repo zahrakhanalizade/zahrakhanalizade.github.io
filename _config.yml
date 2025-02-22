@@ -41,3 +41,8 @@ social_media:
 include:
   - _pages
 
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
