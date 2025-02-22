@@ -1,3 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <h2>
+            📌 <a href="{{ site.baseurl }}/research.md">Research</a> |
+            <a href="{{ site.baseurl }}/cv.md">CV</a> |
+            <a href="{{ site.baseurl }}/teaching.md">Teaching</a>
+        </h2>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        {{ content }}  <!-- This inserts the content from each page -->
+    </main>
+
+</body>
+</html>
