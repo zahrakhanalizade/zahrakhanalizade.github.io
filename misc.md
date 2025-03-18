@@ -1,18 +1,33 @@
 ---
 layout: default
-title: "Miscellaneous"
+title: "Blog"
 ---
 ## 📌 [Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./cv.md) | [Blog](./misc.md)
 
-This is where I'll be sharing useful resources — from tutorials and articles to interesting links and ideas.
+This is where I share some of my favorite resources — insightful articles, tutorials, and links that I’ve found particularly useful or inspiring.
+
+## Resources I Find Useful
+
+- **Matteo Courthoud's Articles:**  
+  [Matteo Courthoud on Towards Data Science](https://towardsdatascience.com/author/matteo-courthoud/) — great insights on data science and causal inference.
+
+- **Online Causal Inference Seminar:**  
+  [OCIS](https://sites.google.com/view/ocis/) — a regular international seminar where top researchers present recent work, followed by high-quality discussions.
+
+- **Industry Tech Blogs:**  
+  Cutting-edge insights on experimentation and causal inference in digital platforms from leading tech companies:  
+  - [Instacart Tech Blog](https://tech.instacart.com/)  
+  - [Netflix Tech Blog](https://netflixtechblog.com/)  
 
 ## Personal Quests
 - **Econ Coding:**  
-  I'm on a mission to level up my econ coding game, and I'll be dropping links and resources here along the way. This might range from classic econometrics to causal machine learning, data structures and algorithms, machine learning, and pretty much anything techy that intersects with economics!  
+  On a mission to level up my econ coding game — from econometrics and causal ML to data structures, algorithms, and anything techy that intersects with economics.  
+  📂 Here's my repo with some coding exercises — still a work in progress, and I’ll be adding more over time: [Econ Coding on GitHub](https://github.com/zahrakhanalizade/econ_coding)  
 
 - **Research Interests:**  
-  - **Experimental Design & Causal Inference:**  
-    I'm deeply interested in topics like experimental design, causal inference, and the intersection of economics and the digital world! Expect to see thoughts, notes, and resources related to these areas as well.  
-
+  - **Experimental Design & Causal Inference:**
+  *(Coming soon: A dive into the literature ...)*
   - **Labor Economics:**  
-    I'm also interested in labor economics — particularly the factors contributing to women's labor force participation, gender gap, and career-fertility tradeoffs. I'm especially curious about how emerging fertility treatments influence women's decision-making in balancing career development and family planning.
+  I'm exploring women's labor force participation, gender gaps, and decisions around career and fertility choices — with a particular curiosity about how emerging fertility treatments influence these decisions.  
+  *(I may share interesting insights and resources here over time.)*
+
