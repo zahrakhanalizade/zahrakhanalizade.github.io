@@ -2,7 +2,7 @@
 layout: default
 title: "Research"
 ---
-## 📌 [Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./cv.md)
+## 📌 [Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./cv.md) | [Miscellaneous](./misc.md)
 
 ## My Research
 
