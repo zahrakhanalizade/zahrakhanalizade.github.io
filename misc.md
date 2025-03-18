@@ -21,7 +21,7 @@ This is where I share some of my favorite resources — insightful articles, tut
 
 ## Personal Quests
 - **Econ Coding:**  
-  On a mission to level up my econ coding game — from econometrics and causal ML to data structures, algorithms, and anything techy that intersects with economics.  
+  I'm on a mission to level up my econ coding game — from econometrics and causal ML to data structures, algorithms, and anything techy that intersects with economics.  
   📂 Here's my repo with some coding exercises — still a work in progress, and I’ll be adding more over time: [Econ Coding on GitHub](https://github.com/zahrakhanalizade/econ_coding)  
 
 - **Research Interests:**  
