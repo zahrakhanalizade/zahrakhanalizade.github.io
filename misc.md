@@ -14,6 +14,9 @@ This is where I share some of my favorite resources — insightful articles, tut
 - **Causal Inference for The Brave and True:**  
   [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) — an engaging and practical guide to causal inference using Python.
 
+- **Causal ML Book:**
+  [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/) — THE causal ML book by Victor Chernuzhokov, Christian Hansen, Nathan Kallus, Martin Spindler, and Vasilis Syrgkanis
+
 - **Online Causal Inference Seminar:**  
   [OCIS](https://sites.google.com/view/ocis/) — a regular international seminar where top researchers present recent work, followed by high-quality discussions.
 
