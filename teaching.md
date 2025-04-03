@@ -12,7 +12,7 @@ I have had the opportunity to teach and assist in various courses at the Univers
 - **ECON 200** - Introduction to Microeconomics  
   *Winter 2022, Spring 2022, Autumn 2022, Winter 2023*  
 - **ECON 201** - Introduction to Macroeconomics  
-  *Spring 2023*  
+  *Spring 2023, Spring 2025*  
 
 ### **Statistics & Probability**
 - **Q SCI 381** - Introduction to Probability and Statistics  
