@@ -25,6 +25,7 @@ This is where I share some of my favorite resources — insightful articles, tut
   - [Instacart Tech Blog](https://tech.instacart.com/)  
   - [Netflix Tech Blog](https://netflixtechblog.com/)  
 
+<!--
 ## Personal Quests
 - **Econ Coding:**  
   I'm on a mission to level up my econ coding game — from econometrics and causal ML to data structures, algorithms, and anything techy that intersects with economics.  
@@ -37,3 +38,4 @@ This is where I share some of my favorite resources — insightful articles, tut
   I'm exploring women's labor force participation, gender gaps, and decisions around career and fertility choices — with a particular curiosity about how emerging fertility treatments influence these decisions.  
   *(I may share interesting insights and resources here over time.)*
 
+-->
