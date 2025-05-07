@@ -2,7 +2,7 @@
 layout: default
 title: "Blog"
 ---
-## 📌 [Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./cv.md) | [Blog](./misc.md)
+## [Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./cv.md) | [Blog](./misc.md)
 
 This is where I share some of my favorite resources — insightful articles, tutorials, and links that I’ve found particularly useful or inspiring.
 
