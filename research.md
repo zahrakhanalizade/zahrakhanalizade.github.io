@@ -2,7 +2,7 @@
 layout: default
 title: "Research"
 ---
-## 📌 [Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./cv.md) | [Blog](./misc.md)
+## [Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./cv.md) | [Blog](./misc.md)
 
 ## My Research
 
@@ -16,8 +16,10 @@ title: "Research"
 ### **Extending the Reproductive Horizon: Exploring Beliefs, Preferences, and Decision-Making**
 **Negar Ziaeian, Zahra Khanalizadeh**
 
-**Abstract:** Biological constraints on fertility create significant gender disparities in human capital accumulation and professional advancement. While women’s fecundity begins to decline in their early 30s and this decline accelerates after age 35, men face no comparable constraint. This asymmetry not only influences women’s participation in the labor market but also imposes higher costs for delaying marriage and childbearing, contributing to their underrepresentation in high-powered roles. Assisted Reproductive Technologies (ART), such as In Vitro Fertilization (IVF), offer a potential extension of the reproductive horizon, yet their impact on fertility behavior and gender roles remains underexplored.
-This paper investigates the effect of ART access on the Total Fertility Rate (TFR) and its broader implications for women’s decision-making. In the first phase of this research, we estimate the causal effect of ART access on fertility outcomes. In the second phase, we conduct a survey to explore beliefs and preferences surrounding ART. The survey focuses on individuals’ perceptions of the likelihood of experiencing infertility at various ages, the success rates of IVF if pursued, and the costs associated with IVF treatment. By examining how these beliefs influence decisions related to family planning and fertility treatments, we aim to uncover the role of expectations and beliefs in shaping fertility behavior and career choices.
+**Abstract:** Women face unique biological constraints on fertility that shape their educational and career decisions in ways not experienced by men. As fertility declines significantly after age 35, delaying childbearing to invest in high-paying, high-powered careers often comes at a steep personal cost. Assisted Reproductive Technologies such as In Vitro Fertilization (IVF) offer a potential way to relax these tradeoffs, but their broader impact on women’s decision-making remains understudied.
+
+This project examines how access to IVF influences women’s beliefs, fertility timing, and career choices. Using original survey data and a discrete choice framework, we estimate women’s willingness to accept delaying or forgoing motherhood in exchange for higher lifetime earnings. Our findings provide new insights into how fertility-extending technologies may reshape gendered patterns in economic and personal life decisions.
+
 
 ### **Distinguishing Biases from Personal Preferences: An ‘Honest’ Machine Learning Approach**
 **Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian**  
