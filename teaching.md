@@ -14,7 +14,8 @@ I am currently a TA for **Q SCI 381 – Introduction to Probability and Statisti
 
 ### Labs I Teach
 - **Section AA**: Wednesday 12:30–2:20 PM, MGH 044  
-- **Section AH**: Friday 12:30–2:20 PM, MGH 044   
+- **Section AH**: Friday 12:30–2:20 PM, MGH 044
+
 ---
 
 ## Teaching Experience
