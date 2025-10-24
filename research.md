@@ -6,13 +6,14 @@ title: "Research"
 
 ## My Research
 
-### **Prioritized Ranking Experimental Design Using Recommender Systems in Two-Sided Platforms**
-**Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian**  
-📄 [Read on arXiv](https://www.arxiv.org/abs/2502.09806)  
+### **Two-Sided Prioritized Ranking: A Coherency-Preserving Design for Marketplace Experiments**
+**Job Market Paper**  
+*Based on joint work with Mahyar Habibi and Negar Ziaeian.*  
+📄 [Latest version (PDF)](https://zahrakhanalizade.github.io/files/JMP.pdf)  
 🎤 Presented at [CODE@MIT 2024](https://ide.mit.edu/events/code24/) (October 2024)  
 🎤 Poster presentation at [Frontiers of Online Advertising](https://sites.google.com/view/ec25-ad-workshop/) at [ACM EC 2025](https://ec25.sigecom.org/) (July 2025)
 
-**Abstract:** Interdependencies between units in online two-sided marketplaces complicate estimating causal effects in experimental settings. We propose a novel experimental design to mitigate the interference bias in estimating the total average treatment effect (TATE) of item-side interventions in online two-sided marketplaces. Our Two-Sided Prioritized Ranking (TSPR) design uses the recommender system as an instrument for experimentation. TSPR strategically prioritizes items based on their treatment status in the listings displayed to users. We designed TSPR to provide users with a coherent platform experience by ensuring access to all items and a consistent realization of their treatment by all users. We evaluate our experimental design through simulations using a search impression dataset from an online travel agency. Our methodology closely estimates the true simulated TATE, while a baseline item-side estimator significantly overestimates TATE.
+**Abstract:** In online two-sided marketplaces, maintaining coherence in observable item attributes, such as prices, is crucial for providing users with a consistent platform experience. For certain interventions, notably those involving price adjustments, it is vital that all users see identical realizations of treatment to prevent confusion or perception of unfairness. However, this constraint complicates causal estimation of treatment effects due to interference between marketplace units. To address this challenge, we propose a novel experimental design called Two-Sided Prioritized Ranking (TSPR), which leverages the marketplace's recommender system as an experimental instrument. TSPR strategically prioritizes items based on their treatment status while ensuring that all users have coherent exposure to treatments. Through simulations using search impression data from an online travel agency, we demonstrate that our TSPR method accurately estimates the Total Average Treatment Effect (TATE), while traditional baseline item-side estimators, which also satisfy the coherency constraint, substantially overestimate this effect.
 
 ### **Extending the Reproductive Horizon: Exploring Beliefs, Preferences, and Decision-Making**
 **Negar Ziaeian, Zahra Khanalizadeh**
