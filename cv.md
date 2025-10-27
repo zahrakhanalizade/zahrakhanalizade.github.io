@@ -4,6 +4,8 @@ title: "CV"
 ---
 ## [Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./cv.md) | [Blog](./misc.md)
 
-## My CV
 
-📄 **[Download CV (PDF)](files/Khanalizadeh_Zahra_CV.pdf)**  
+## Curriculum Vitae
+
+[**Download CV (PDF)**](files/Khanalizadeh_Zahra_CV.pdf)  
+*Last updated: October 2025*
