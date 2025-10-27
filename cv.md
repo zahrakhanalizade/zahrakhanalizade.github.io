@@ -7,5 +7,6 @@ title: "CV"
 
 ## Curriculum Vitae
 
-[**Download CV (PDF)**](files/Khanalizadeh_Zahra_CV.pdf)  
+**[Download CV (PDF)](files/Khanalizadeh_Zahra_CV.pdf)**
+
 *Last updated: October 2025*
