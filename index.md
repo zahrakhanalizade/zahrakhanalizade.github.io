@@ -8,11 +8,13 @@ title: About Me
 
 ## About Me
 
-Hi! I'm Zahra Khanalizadeh, a 4th year PhD candidate in Economics at the University of Washington. My research interests span applied microeconomics, labor and development economics, causal inference, and experimentation. I am advised by Prof. [Alan Griffith](https://econ.washington.edu/people/alan-griffith) and Prof. [Jason Kerwin](https://jasonkerwin.com/).
+I am Zahra Khanalizadeh, a PhD candidate in Economics at the University of Washington. I work in applied microeconomics with a focus on causal inference, experimental and quasi-experimental methods, and survey-based measurement. My research studies how individuals make decisions in two main settings: online marketplaces, where I design experiments for causal analysis, and real-world policy contexts, where I use surveys to measure beliefs, preferences, and behavioral responses.
+
+My advisors are Prof. [Alan Griffith](https://econ.washington.edu/people/alan-griffith) and Prof. [Jason Kerwin](https://jasonkerwin.com/).
 
 I am currently on the 2025–2026 job market.
 
-I received my bachelor's in Computer Engineering and master's in Economics from Sharif University of Technology. I then spent a year at the Smith School of Business at Queen's University getting a master's in Analytics.
+Before UW, I completed a bachelor's degree in Computer Engineering and a master's degree in Economics at Sharif University of Technology, followed by a master's in Analytics at the Smith School of Business at Queen’s University.
 
 Feel free to reach me at zkhnl@uw.edu.
 
