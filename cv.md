@@ -9,4 +9,4 @@ title: "CV"
 
 **[Download CV (PDF)](files/Khanalizadeh_Zahra_website.pdf)**
 
-*Last updated: October 2025*
+*Last updated: November 2025*
