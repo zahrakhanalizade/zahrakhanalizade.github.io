@@ -31,9 +31,11 @@ Poster presentation at [Frontiers of Online Advertising](https://sites.google.co
 
 **Abstract:** This study proposes a new method for estimating biases at the micro-level in scenarios with multiple bilateral interactions, where the presence of individual preferences and correlated characteristics complicates the analysis.  The proposed method comprises two stages. In the first stage, the method introduces a novel approach to extract preferences and characteristics, employing Collaborative Filtering with an 'honest' design. This technique is designed to separate preferences and self-induced outcomes from the constructed embeddings of interacting units. In the second stage, the method utilizes a Double Machine Learning estimator to identify biases at the unit level, based on the embeddings generated in the first stage. The methodology was applied to a dataset of nearly 150,000 film ratings by professional critics, aiming to uncover personal biases among critics towards films directed by women. The results indicate that approximately 5% of critics show a significant bias in favor of films directed by women, once personal preferences and film characteristics are accounted for. However, a ‘naive’ approach that ignores these elements suggests a much higher prevalence of bias among critics. 
 
+<!--
 ---
 
 ### **Causal Recommendations in Two-Sided Platforms via Honest Collaborative Filtering**
 *Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian*
 
 **Abstract:** This project extends the “honest collaborative filtering” framework introduced in *Distinguishing Biases from Personal Preferences* to a new domain of large-scale, two-sided platforms. The paper develops methods for generating micro-level causal recommendations, identifying which AI-generated ad features causally improve engagement and conversions, and for which user segments. By combining causal inference with collaborative filtering, the project aims to advance interpretable and heterogeneous recommendation systems for modern digital marketplaces.
+-->
