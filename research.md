@@ -19,11 +19,23 @@ Poster presentation at [Frontiers of Online Advertising](https://sites.google.co
 ---
 
 ### **Extending the Reproductive Horizon: Exploring Beliefs, Preferences, and Decision-Making**
-*Zahra Khanalizadeh, Negar Ziaeian*
+*Joint work with Negar Ziaeian*    
+[Extended Abstract](/files/IVF_extended_abstract.pdf)
 
-**Abstract:** Women face unique biological constraints on fertility that shape their educational and career decisions in ways not experienced by men. As fertility declines significantly after age 35, delaying childbearing to invest in high-paying, high-powered careers often comes at a steep personal cost. Assisted Reproductive Technologies such as In Vitro Fertilization (IVF) offer a potential way to relax these tradeoffs, but their broader impact on women’s decision-making remains understudied. This project examines how access to IVF influences women’s beliefs, fertility timing, and career choices. Using original survey data and a discrete choice framework, we estimate women’s willingness to accept delaying or forgoing motherhood in exchange for higher lifetime earnings. Our findings provide new insights into how fertility-extending technologies may reshape gendered patterns in economic and personal life decisions.
+**Abstract:** Limited fertility windows create a prominent tradeoff between career development and motherhood
+timing. Emerging assisted reproductive technologies, such as IVF, extend this window to some degree,
+and the share of IVF-conceived births continues to rise worldwide. Yet little is known about how women
+incorporate access to these technologies into decisions about when to have children. This project studies
+women’s beliefs about natural fertility, age-related decline, and the extent to which IVF can compensate
+for biological constraints, and asks whether misperceptions about these factors influence willingness to
+postpone childbearing. We field a survey and discrete choice experiment with women aged 20–30 in
+the United Kingdom to measure how beliefs about fertility and IVF shape preferences over motherhood
+timing and career investment. We estimate the income premium that makes respondents indifferent
+between early childbearing and postponement and examine how information about IVF success and
+costs shifts these tradeoffs. A real-stakes outcome complements stated preferences.
 
 ---
+
 
 ### **Distinguishing Biases from Personal Preferences: An Honest Machine Learning Approach**
 *Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian*  
