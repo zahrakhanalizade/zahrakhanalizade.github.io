@@ -20,7 +20,8 @@ Poster presentation at [Frontiers of Online Advertising](https://sites.google.co
 
 ### **Extending the Reproductive Horizon: Exploring Beliefs, Preferences, and Decision-Making**
 *Joint work with Negar Ziaeian*    
-[Extended Abstract](/files/IVF_extended_abstract.pdf)
+[Extended Abstract](/files/IVF_extended_abstract.pdf)  
+Scheduled poster presentation at [PAA 2026 Annual Meeting](https://www.populationassociation.org/paa2026/home) (May 2026)
 
 **Abstract:** Limited fertility windows create a prominent tradeoff between career development and motherhood
 timing. Emerging assisted reproductive technologies, such as IVF, extend this window to some degree,
