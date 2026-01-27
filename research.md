@@ -7,10 +7,10 @@ title: "Research"
 ## My Research
 
 
-### **Two-Sided Prioritized Ranking: A Coherency-Preserving Design for Marketplace Experiments**
+### **Two-Sided Prioritized Ranking: A Coherency-Preserving Design for Marketplace Experiments** [[Paper]](https://zahrakhanalizade.github.io/files/JMP.pdf)
 **Job Market Paper**  
 *Based on joint work with Mahyar Habibi and Negar Ziaeian.*  
-[Latest version (PDF)](https://zahrakhanalizade.github.io/files/JMP.pdf)  
+  
 Presented at [CODE@MIT 2024](https://ide.mit.edu/events/code24/) (October 2024)  
 Poster presentation at [Frontiers of Online Advertising](https://sites.google.com/view/ec25-ad-workshop/) at [ACM EC 2025](https://ec25.sigecom.org/) (July 2025)
 
@@ -18,9 +18,23 @@ Poster presentation at [Frontiers of Online Advertising](https://sites.google.co
 
 ---
 
+
+
+
+### **Distinguishing Biases from Personal Preferences: An Honest Machine Learning Approach** [[Paper]](https://zahrakhanalizade.github.io/files/HonestCF.pdf)
+*Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian*    
+ 
+<!-- [[Extended Abstract]](/files/Abstract_Separating_Biases_from_Preferences.pdf)  -->
+
+**Abstract:** This study proposes a new method for estimating biases at the micro-level in scenarios with multiple bilateral interactions, where the presence of individual preferences and correlated characteristics complicates the analysis.  The proposed method comprises two stages. In the first stage, the method introduces a novel approach to extract preferences and characteristics, employing Collaborative Filtering with an 'honest' design. This technique is designed to separate preferences and self-induced outcomes from the constructed embeddings of interacting units. In the second stage, the method utilizes a Double Machine Learning estimator to identify biases at the unit level, based on the embeddings generated in the first stage. Monte Carlo simulations demonstrate that HCF+DML substantially outperforms naive OLS estimation under confounding, reducing RMSE by up to 50% and maintaining high correlation with true parameters even under embedding misspecification and non-random selection. We apply the method to nearly 150,000 film reviews from professional critics to estimate gender-based 
+bias in evaluations of female-directed films. Naive comparisons suggest that 29% of critics exhibit statistically significant favoritism toward female directors. After controlling for the match between critic preferences and film characteristics, this figure drops to under 1%. The apparent pro-female pattern largely reflects critics' preferences for genres where female directors are disproportionately represented, rather 
+than gender-based favoritism per se.
+
+---
+
 ### **Extending the Reproductive Horizon: Exploring Beliefs, Preferences, and Decision-Making**
 *Joint work with Negar Ziaeian*    
-[Extended Abstract](/files/IVF_extended_abstract.pdf)  
+[[Extended Abstract]](/files/IVF_extended_abstract.pdf)  
 Scheduled poster presentation at [PAA 2026 Annual Meeting](https://www.populationassociation.org/paa2026/home) (May 2026)
 
 **Abstract:** Limited fertility windows create a prominent tradeoff between career development and motherhood
@@ -34,15 +48,6 @@ the United Kingdom to measure how beliefs about fertility and IVF shape preferen
 timing and career investment. We estimate the income premium that makes respondents indifferent
 between early childbearing and postponement and examine how information about IVF success and
 costs shifts these tradeoffs. A real-stakes outcome complements stated preferences.
-
----
-
-
-### **Distinguishing Biases from Personal Preferences: An Honest Machine Learning Approach**
-*Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian*  
-[Extended Abstract](/files/Abstract_Separating_Biases_from_Preferences.pdf)  
-
-**Abstract:** This study proposes a new method for estimating biases at the micro-level in scenarios with multiple bilateral interactions, where the presence of individual preferences and correlated characteristics complicates the analysis.  The proposed method comprises two stages. In the first stage, the method introduces a novel approach to extract preferences and characteristics, employing Collaborative Filtering with an 'honest' design. This technique is designed to separate preferences and self-induced outcomes from the constructed embeddings of interacting units. In the second stage, the method utilizes a Double Machine Learning estimator to identify biases at the unit level, based on the embeddings generated in the first stage. The methodology was applied to a dataset of nearly 150,000 film ratings by professional critics, aiming to uncover personal biases among critics towards films directed by women. The results indicate that approximately 5% of critics show a significant bias in favor of films directed by women, once personal preferences and film characteristics are accounted for. However, a ‘naive’ approach that ignores these elements suggests a much higher prevalence of bias among critics. 
 
 <!--
 ---
