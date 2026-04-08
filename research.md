@@ -19,11 +19,10 @@ Poster presentation at [Frontiers of Online Advertising](https://sites.google.co
 ---
 
 
-
-
 ### **Distinguishing Biases from Personal Preferences: An Honest Machine Learning Approach** [[Paper]](https://zahrakhanalizade.github.io/files/HonestCF.pdf)
 *Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian*    
- 
+ Accepted for presentation at [IAAE 2026 Annual Conference](https://iaae2026.pages.dev/) (June 2026)
+
 <!-- [[Extended Abstract]](/files/Abstract_Separating_Biases_from_Preferences.pdf)  -->
 
 **Abstract:** This study proposes a new method for estimating biases at the micro-level in scenarios with multiple bilateral interactions, where the presence of individual preferences and correlated characteristics complicates the analysis.  The proposed method comprises two stages. In the first stage, the method introduces a novel approach to extract preferences and characteristics, employing Collaborative Filtering with an 'honest' design. This technique is designed to separate preferences and self-induced outcomes from the constructed embeddings of interacting units. In the second stage, the method utilizes a Double Machine Learning estimator to identify biases at the unit level, based on the embeddings generated in the first stage. Monte Carlo simulations demonstrate that HCF+DML substantially outperforms naive OLS estimation under confounding, reducing RMSE by up to 50% and maintaining high correlation with true parameters even under embedding misspecification and non-random selection. We apply the method to nearly 150,000 film reviews from professional critics to estimate gender-based 
