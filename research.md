@@ -33,7 +33,7 @@ than gender-based favoritism per se.
 
 ---
 
-### **Extending the Reproductive Horizon: Exploring Beliefs, Preferences, and Decision-Making** [[Paper]](https://warwick.ac.uk/fac/soc/economics/staff/ziaeianghasemzadeh/jmp_negar-ziaeian.pdf)
+### **Do Misperceptions about IVF Shape When Women Plan to Have Children? Evidence from an Information Experiment** [[Paper]](https://warwick.ac.uk/fac/soc/economics/staff/ziaeianghasemzadeh/jmp_negar-ziaeian.pdf)
 *Joint work with Negar Ziaeian*    
 Poster presentation at [PAA 2026 Annual Meeting](https://www.populationassociation.org/paa2026/home) (May 2026)
 
