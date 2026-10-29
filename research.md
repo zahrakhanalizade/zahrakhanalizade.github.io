@@ -7,21 +7,23 @@ title: "Research"
 ## My Research
 
 
-### **Two-Sided Prioritized Ranking: A Coherency-Preserving Design for Marketplace Experiments** [[Paper]](https://zahrakhanalizade.github.io/files/JMP.pdf)
-**Job Market Paper**  
-*Based on joint work with Mahyar Habibi and Negar Ziaeian.*  
+### **Two-Sided Prioritized Ranking: A Coherency-Preserving Design for Marketplace Experiments** [[Paper]](https://arxiv.org/abs/2502.09806)
+**Job Market Paper**;   
+*joint work with Mahyar Habibi and Negar Ziaeian.*  
+_forthcoming In Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’26)_  
   
 Presented at [CODE@MIT 2024](https://ide.mit.edu/events/code24/) (October 2024)  
 Poster presentation at [Frontiers of Online Advertising](https://sites.google.com/view/ec25-ad-workshop/) at [ACM EC 2025](https://ec25.sigecom.org/) (July 2025)
 
-**Abstract:** In online two-sided marketplaces, users must see a coherent platform environment in which all items remain accessible and item attributes, such as prices or features, are displayed consistently across users. Many interventions, especially those involving price changes, require such coherency to avoid confusion or perceptions of unfair treatment. These constraints complicate causal inference because users interact with shared items, and treatment applied to one item can spill over onto others, creating interference bias in standard A/B tests. We propose a new experimental design, Two-Sided Prioritized Ranking (TSPR), which uses the marketplace's ranking algorithm as an experimental instrument. TSPR assigns treatment through prioritized exposure while preserving coherency and limiting spillovers. Our goal is to estimate the lift, defined as the proportional change in total outcomes between counterfactual worlds in which all items are treated or untreated. Using Monte Carlo simulations based on large-scale search impression data from an online travel agency, we show that TSPR produces lift estimates that are substantially less biased than those from coherent item-side A/B tests. We also compare TSPR to cluster-randomized designs, which can reduce interference when clusters isolate exposure but require detailed knowledge of the underlying network. TSPR provides a practical and scalable alternative for platforms that must preserve coherency while obtaining reliable estimates of treatment effects.
+**Abstract:** Online marketplaces frequently run pricing experiments in environments where users choose from a list of items. In these settings, items compete for users’ limited attention and demand, creating interference among items within a list: Changing prices for any item can affect the demand for others, biasing estimates from item-level A/B tests. In addition, a key consideration in pricing experiments is preserving platform coherency across prices and item availability. This requirement rules out experimental designs such as user-level A/B tests as they violate platform coherency. We propose Two-Sided Prioritized Ranking (TSPR) to estimate the total average treatment effect of price changes in such settings. TSPR exploits position bias in ranked search results to create variation in treatment exposure without compromising coherency. TSPR randomizes both users and items and reorders ranked lists, prioritizing treated items for one group of users and untreated items for the other. All users see the same items at consistent prices, but differ in exposure to treatment as they pay disproportionate attention across ranks. In semi-synthetic simulations based on Expedia hotel search data, TSPR outperforms baseline coherency-preserving experiment designs by reducing estimation bias and providing sufficient statistical power.
 
 ---
 
 
 ### **Distinguishing Biases from Personal Preferences: An Honest Machine Learning Approach** [[Paper]](https://zahrakhanalizade.github.io/files/HonestCF.pdf)
 *Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian*    
- Accepted for presentation at [IAAE 2026 Annual Conference](https://iaae2026.pages.dev/) (June 2026)
+ Accepted for presentation at [IAAE 2026 Annual Conference](https://iaae2026.pages.dev/) (June 2026);
+ Poster at ACM EAAMO 2026 
 
 <!-- [[Extended Abstract]](/files/Abstract_Separating_Biases_from_Preferences.pdf)  -->
 
@@ -31,28 +33,10 @@ than gender-based favoritism per se.
 
 ---
 
-### **Extending the Reproductive Horizon: Exploring Beliefs, Preferences, and Decision-Making**
+### **Extending the Reproductive Horizon: Exploring Beliefs, Preferences, and Decision-Making** [[Paper]](https://warwick.ac.uk/fac/soc/economics/staff/ziaeianghasemzadeh/jmp_negar-ziaeian.pdf)
 *Joint work with Negar Ziaeian*    
-[[Extended Abstract]](/files/IVF_extended_abstract.pdf)  
-Scheduled poster presentation at [PAA 2026 Annual Meeting](https://www.populationassociation.org/paa2026/home) (May 2026)
+Poster presentation at [PAA 2026 Annual Meeting](https://www.populationassociation.org/paa2026/home) (May 2026)
 
-**Abstract:** Limited fertility windows create a prominent tradeoff between career development and motherhood
-timing. Emerging assisted reproductive technologies, such as IVF, extend this window to some degree,
-and the share of IVF-conceived births continues to rise worldwide. Yet little is known about how women
-incorporate access to these technologies into decisions about when to have children. This project studies
-women’s beliefs about natural fertility, age-related decline, and the extent to which IVF can compensate
-for biological constraints, and asks whether misperceptions about these factors influence willingness to
-postpone childbearing. We field a survey and discrete choice experiment with women aged 20–30 in
-the United Kingdom to measure how beliefs about fertility and IVF shape preferences over motherhood
-timing and career investment. We estimate the income premium that makes respondents indifferent
-between early childbearing and postponement and examine how information about IVF success and
-costs shifts these tradeoffs. A real-stakes outcome complements stated preferences.
+**Abstract:** Female fertility declines with age, and in vitro fertilization (IVF) is the main technology available to extend it, yet many women misjudge what it costs and how often it succeeds. We test whether correcting these misperceptions changes women’s career-family timing decisions in an experiment with 635 UK women aged 20-30. Women overestimate their natural fertility and misperceive IVF’s cost and success rate, while judging motherhood’s labour-market cost fairly accurately. Randomly treating women with information about IVF’s true cost or true success rate moves cost beliefs 83% and success beliefs 52% toward the truth, yet neither changes how much income women will forgo for a career allowing earlier motherhood. The null holds regardless of how wrong a woman’s prior belief was, across observed characteristics, and in incentivized choices. However, success information lowers demand for egg-freezing information, an insurance against a future IVF attempt. IVF misperceptions are substantial and correctable but do not constrain the career-family timing decision.
 
-<!--
----
 
-### **Causal Recommendations in Two-Sided Platforms via Honest Collaborative Filtering**
-*Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian*
-
-**Abstract:** This project extends the “honest collaborative filtering” framework introduced in *Distinguishing Biases from Personal Preferences* to a new domain of large-scale, two-sided platforms. The paper develops methods for generating micro-level causal recommendations, identifying which AI-generated ad features causally improve engagement and conversions, and for which user segments. By combining causal inference with collaborative filtering, the project aims to advance interpretable and heterogeneous recommendation systems for modern digital marketplaces.
--->
